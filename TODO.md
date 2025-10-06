@@ -90,3 +90,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-06T18:22:19Z).
 - DOC: Minor README tweak suggested (2025-10-06T18:22:49Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-06T18:22:53Z).
+- CHORE: Update dependency checklist in docs (2025-10-06T18:23:22Z).
