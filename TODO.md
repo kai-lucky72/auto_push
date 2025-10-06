@@ -42,3 +42,5 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-06T17:43:38Z).
 - TASK: Write unit test for recently added util function (2025-10-06T17:44:12Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-06T17:44:13Z).
+- CHORE: Update dependency checklist in docs (2025-10-06T17:44:47Z).
+- CHORE: Update dependency checklist in docs (2025-10-06T17:44:47Z).
