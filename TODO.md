@@ -215,3 +215,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - LOG: Small refactor done locally; details in code comments (2025-10-06T18:58:27Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-06T18:58:29Z).
 - DOC: Minor README tweak suggested (2025-10-06T18:59:02Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-06T18:59:35Z).
