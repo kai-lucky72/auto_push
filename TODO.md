@@ -266,3 +266,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TASK: Write unit test for recently added util function (2025-10-07T07:15:45Z).
 - TASK: Write unit test for recently added util function (2025-10-07T07:16:18Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-07T07:16:53Z).
+- CHORE: Update dependency checklist in docs (2025-10-07T07:17:26Z).
