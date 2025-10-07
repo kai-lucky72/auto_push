@@ -338,3 +338,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - IDEA: Possible feature — add bulk import endpoint (2025-10-07T07:58:47Z).
 - TASK: Write unit test for recently added util function (2025-10-07T07:59:23Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-07T08:00:05Z).
+- TASK: Write unit test for recently added util function (2025-10-07T08:00:39Z).
