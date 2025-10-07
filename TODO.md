@@ -330,3 +330,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-07T07:54:10Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-07T07:54:46Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-07T07:55:26Z).
+- TASK: Write unit test for recently added util function (2025-10-07T07:56:01Z).
