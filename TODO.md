@@ -371,3 +371,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - CHORE: Update dependency checklist in docs (2025-10-10T02:23:30Z).
 - DOC: Minor README tweak suggested (2025-10-10T02:23:59Z).
 - CHORE: Update dependency checklist in docs (2025-10-10T02:24:34Z).
+- CHORE: Update dependency checklist in docs (2025-10-10T02:25:05Z).
