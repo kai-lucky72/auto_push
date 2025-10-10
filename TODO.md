@@ -449,3 +449,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TASK: Write unit test for recently added util function (2025-10-10T03:06:03Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-10T03:06:38Z).
 - DOC: Minor README tweak suggested (2025-10-10T03:07:09Z).
+- DOC: Minor README tweak suggested (2025-10-10T03:07:37Z).
