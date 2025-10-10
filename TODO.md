@@ -360,3 +360,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - LOG: Small refactor done locally; details in code comments (2025-10-10T02:17:18Z).
 - TODO: Add a short example for the API (created 2025-10-10T02:17:56Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-10T02:18:27Z).
+- TODO: Add a short example for the API (created 2025-10-10T02:19:02Z).
