@@ -428,3 +428,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - LOG: Small refactor done locally; details in code comments (2025-10-10T02:54:15Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-10T02:54:48Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-10T02:55:26Z).
+- NOTE: Quick optimization idea documented — revisit later (2025-10-10T02:55:58Z).
