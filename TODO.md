@@ -345,3 +345,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - LOG: Small refactor done locally; details in code comments (2025-10-10T02:08:23Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-10T02:09:25Z).
 - TASK: Write unit test for recently added util function (2025-10-10T02:09:54Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-10T02:10:08Z).
