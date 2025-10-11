@@ -646,3 +646,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - LOG: Small refactor done locally; details in code comments (2025-10-11T16:08:12Z).
 - CHORE: Update dependency checklist in docs (2025-10-11T16:08:25Z).
 - CHORE: Update dependency checklist in docs (2025-10-11T16:08:38Z).
+- DOC: Minor README tweak suggested (2025-10-11T16:08:51Z).
