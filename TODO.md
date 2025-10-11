@@ -487,3 +487,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TASK: Write unit test for recently added util function (2025-10-11T15:10:23Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-11T15:10:37Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-11T15:13:28Z).
+- TASK: Write unit test for recently added util function (2025-10-11T15:13:41Z).
