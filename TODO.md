@@ -795,3 +795,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-11T18:59:33Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-11T18:59:47Z).
 - TODO: Add a short example for the API (created 2025-10-11T19:00:01Z).
+- TASK: Write unit test for recently added util function (2025-10-11T19:00:15Z).
