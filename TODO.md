@@ -600,3 +600,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-11T15:50:32Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-11T15:50:44Z).
 - DOC: Minor README tweak suggested (2025-10-11T15:50:56Z).
+- DOC: Minor README tweak suggested (2025-10-11T15:51:09Z).
