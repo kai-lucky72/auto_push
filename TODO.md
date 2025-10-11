@@ -639,3 +639,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-11T15:59:57Z).
 - TASK: Write unit test for recently added util function (2025-10-11T16:00:10Z).
 - TASK: Write unit test for recently added util function (2025-10-11T16:00:22Z).
+- LOG: Small refactor done locally; details in code comments (2025-10-11T16:00:35Z).
