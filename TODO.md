@@ -911,3 +911,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-11T19:25:46Z).
 - CHORE: Update dependency checklist in docs (2025-10-11T19:26:01Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-11T19:26:16Z).
+- DOC: Minor README tweak suggested (2025-10-11T19:26:30Z).
