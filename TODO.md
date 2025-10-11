@@ -797,3 +797,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-11T19:00:01Z).
 - TASK: Write unit test for recently added util function (2025-10-11T19:00:15Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-11T19:00:28Z).
+- TASK: Write unit test for recently added util function (2025-10-11T19:00:41Z).
