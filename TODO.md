@@ -551,3 +551,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - IDEA: Possible feature — add bulk import endpoint (2025-10-11T15:32:47Z).
 - DOC: Minor README tweak suggested (2025-10-11T15:36:17Z).
 - TODO: Add a short example for the API (created 2025-10-11T15:36:32Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-11T15:36:44Z).
