@@ -757,3 +757,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - IDEA: Possible feature — add bulk import endpoint (2025-10-11T18:50:55Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-11T18:51:08Z).
 - DOC: Minor README tweak suggested (2025-10-11T18:51:23Z).
+- DOC: Minor README tweak suggested (2025-10-11T18:51:37Z).
