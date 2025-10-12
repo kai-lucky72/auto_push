@@ -1026,3 +1026,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-12T16:19:14Z).
 - DOC: Minor README tweak suggested (2025-10-12T16:19:26Z).
 - CHORE: Update dependency checklist in docs (2025-10-12T16:19:38Z).
+- TASK: Write unit test for recently added util function (2025-10-12T16:19:51Z).
