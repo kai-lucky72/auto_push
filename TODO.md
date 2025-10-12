@@ -1013,3 +1013,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-12T16:16:19Z).
 - TASK: Write unit test for recently added util function (2025-10-12T16:16:32Z).
 - DOC: Minor README tweak suggested (2025-10-12T16:16:46Z).
+- DOC: Minor README tweak suggested (2025-10-12T16:16:59Z).
