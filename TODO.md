@@ -1006,3 +1006,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-12T16:14:47Z).
 - DOC: Minor README tweak suggested (2025-10-12T16:15:00Z).
 - TODO: Add a short example for the API (created 2025-10-12T16:15:13Z).
+- CHORE: Update dependency checklist in docs (2025-10-12T16:15:27Z).
