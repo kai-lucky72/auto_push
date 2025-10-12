@@ -1098,3 +1098,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-12T16:38:02Z).
 - DOC: Minor README tweak suggested (2025-10-12T16:38:16Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-12T16:38:30Z).
+- DOC: Minor README tweak suggested (2025-10-12T16:38:43Z).
