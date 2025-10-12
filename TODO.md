@@ -1029,3 +1029,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TASK: Write unit test for recently added util function (2025-10-12T16:19:51Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-12T16:20:03Z).
 - TASK: Write unit test for recently added util function (2025-10-12T16:20:16Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-12T16:20:28Z).
