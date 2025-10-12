@@ -952,3 +952,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-12T16:02:57Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-12T16:03:11Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-12T16:03:26Z).
+- TASK: Write unit test for recently added util function (2025-10-12T16:03:39Z).
