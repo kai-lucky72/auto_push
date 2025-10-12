@@ -938,3 +938,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-12T15:59:58Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-12T16:00:11Z).
 - CHORE: Update dependency checklist in docs (2025-10-12T16:00:24Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-12T16:00:36Z).
