@@ -1366,3 +1366,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - IDEA: Possible feature — add bulk import endpoint (2025-10-14T06:25:07Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-14T06:25:20Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-14T06:25:33Z).
+- LOG: Small refactor done locally; details in code comments (2025-10-14T06:25:46Z).
