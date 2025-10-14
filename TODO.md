@@ -1335,3 +1335,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-14T06:18:33Z).
 - CHORE: Update dependency checklist in docs (2025-10-14T06:18:46Z).
 - DOC: Minor README tweak suggested (2025-10-14T06:18:59Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-14T06:19:11Z).
