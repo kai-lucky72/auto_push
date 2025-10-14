@@ -1326,3 +1326,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - CHORE: Update dependency checklist in docs (2025-10-14T06:15:19Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-14T06:15:37Z).
 - TODO: Add a short example for the API (created 2025-10-14T06:15:47Z).
+- LOG: Small refactor done locally; details in code comments (2025-10-14T06:16:01Z).
