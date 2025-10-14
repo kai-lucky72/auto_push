@@ -1259,3 +1259,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-14T06:00:20Z).
 - CHORE: Update dependency checklist in docs (2025-10-14T06:00:33Z).
 - TASK: Write unit test for recently added util function (2025-10-14T06:00:47Z).
+- TODO: Add a short example for the API (created 2025-10-14T06:01:00Z).
