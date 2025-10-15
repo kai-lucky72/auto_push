@@ -1417,3 +1417,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-15T08:02:05Z).
 - CHORE: Update dependency checklist in docs (2025-10-15T08:02:19Z).
 - CHORE: Update dependency checklist in docs (2025-10-15T08:02:32Z).
+- CHORE: Update dependency checklist in docs (2025-10-15T08:02:47Z).
