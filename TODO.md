@@ -1505,3 +1505,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - LOG: Small refactor done locally; details in code comments (2025-10-18T04:44:29Z).
 - CHORE: Update dependency checklist in docs (2025-10-18T04:44:41Z).
 - TASK: Write unit test for recently added util function (2025-10-18T04:44:54Z).
+- DOC: Minor README tweak suggested (2025-10-18T04:45:07Z).
