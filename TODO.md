@@ -1500,3 +1500,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-17T05:38:35Z).
 - DOC: Minor README tweak suggested (2025-10-17T05:38:48Z).
 - DOC: Minor README tweak suggested (2025-10-18T04:43:44Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-18T04:44:03Z).
