@@ -1538,3 +1538,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-18T04:51:35Z).
 - DOC: Minor README tweak suggested (2025-10-18T04:51:48Z).
 - DOC: Minor README tweak suggested (2025-10-18T04:52:03Z).
+- LOG: Small refactor done locally; details in code comments (2025-10-18T04:52:15Z).
