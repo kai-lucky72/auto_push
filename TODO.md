@@ -1910,3 +1910,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-19T21:05:32Z).
 - TASK: Write unit test for recently added util function (2025-10-19T21:05:42Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-19T21:05:52Z).
+- TODO: Add a short example for the API (created 2025-10-19T21:06:03Z).
