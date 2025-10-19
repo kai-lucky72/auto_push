@@ -1622,3 +1622,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-19T18:35:31Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-19T18:35:41Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-19T18:35:51Z).
+- TODO: Add a short example for the API (created 2025-10-19T18:36:01Z).
