@@ -1849,3 +1849,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - IDEA: Possible feature — add bulk import endpoint (2025-10-19T19:18:11Z).
 - TODO: Add a short example for the API (created 2025-10-19T19:18:21Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-19T19:18:35Z).
+- TODO: Add a short example for the API (created 2025-10-19T19:18:45Z).
