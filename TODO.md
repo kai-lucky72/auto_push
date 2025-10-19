@@ -1730,3 +1730,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-19T18:55:36Z).
 - DOC: Minor README tweak suggested (2025-10-19T18:55:46Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-19T18:56:00Z).
+- TASK: Write unit test for recently added util function (2025-10-19T18:56:10Z).
