@@ -1770,3 +1770,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - CHORE: Update dependency checklist in docs (2025-10-19T19:03:24Z).
 - CHORE: Update dependency checklist in docs (2025-10-19T19:03:34Z).
 - CHORE: Update dependency checklist in docs (2025-10-19T19:03:44Z).
+- LOG: Small refactor done locally; details in code comments (2025-10-19T19:03:55Z).
