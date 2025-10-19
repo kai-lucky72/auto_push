@@ -1815,3 +1815,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-10-19T19:11:41Z).
 - CHORE: Update dependency checklist in docs (2025-10-19T19:11:51Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-19T19:12:02Z).
+- LOG: Small refactor done locally; details in code comments (2025-10-19T19:12:15Z).
