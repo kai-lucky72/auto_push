@@ -1778,3 +1778,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - IDEA: Possible feature — add bulk import endpoint (2025-10-19T19:04:50Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-19T19:05:00Z).
 - DOC: Minor README tweak suggested (2025-10-19T19:05:11Z).
+- CHORE: Update dependency checklist in docs (2025-10-19T19:05:21Z).
