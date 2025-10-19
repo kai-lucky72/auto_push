@@ -1721,3 +1721,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - CHORE: Update dependency checklist in docs (2025-10-19T18:53:52Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-19T18:54:03Z).
 - DOC: Minor README tweak suggested (2025-10-19T18:54:13Z).
+- TODO: Add a short example for the API (created 2025-10-19T18:54:26Z).
