@@ -1865,3 +1865,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-19T19:21:22Z).
 - TODO: Add a short example for the API (created 2025-10-19T19:21:32Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-19T19:21:42Z).
+- TODO: Add a short example for the API (created 2025-10-19T19:21:52Z).
