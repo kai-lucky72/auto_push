@@ -1937,3 +1937,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - NOTE: Quick optimization idea documented — revisit later (2025-10-20T04:53:41Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-20T04:53:52Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-10-20T04:54:02Z).
+- TODO: Add a short example for the API (created 2025-10-20T04:54:12Z).
