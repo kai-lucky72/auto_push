@@ -1969,3 +1969,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - IDEA: Possible feature — add bulk import endpoint (2025-10-20T06:19:07Z).
 - DOC: Minor README tweak suggested (2025-10-20T06:19:18Z).
 - LOG: Small refactor done locally; details in code comments (2025-10-20T06:19:28Z).
+- CHORE: Update dependency checklist in docs (2025-10-20T06:19:39Z).
