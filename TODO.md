@@ -2019,3 +2019,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - DOC: Minor README tweak suggested (2025-10-22T13:42:28Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-22T13:42:40Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-22T13:42:53Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-22T13:43:06Z).
