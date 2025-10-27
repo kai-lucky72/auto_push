@@ -2034,3 +2034,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - LOG: Small refactor done locally; details in code comments (2025-10-22T13:45:55Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-26T17:03:51Z).
 - NOTE: Quick optimization idea documented — revisit later (2025-10-26T17:04:23Z).
+- IDEA: Possible feature — add bulk import endpoint (2025-10-27T20:56:32Z).
