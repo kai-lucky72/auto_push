@@ -2078,3 +2078,4 @@ This file collects tiny, useful notes and TODOs created automatically.
 - TODO: Add a short example for the API (created 2025-11-06T09:03:09Z).
 - IDEA: Possible feature — add bulk import endpoint (2025-11-06T09:03:26Z).
 - CHORE: Update dependency checklist in docs (2025-11-06T09:03:41Z).
+- NOTE: Quick optimization idea documented — revisit later (2025-11-06T09:03:57Z).
